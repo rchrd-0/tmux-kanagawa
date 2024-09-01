@@ -1,0 +1,17 @@
+# NOTE: you can use vars with $<var> and ${<var>} as long as the str is double quoted: ""
+# WARNING: hex colors can't contain capital letters
+
+# --> Kanagawa (Wave)
+thm_bg="#1f1f28"    # sumiInk1
+thm_fg="#dcd7ba"    # fujiWhite
+thm_cyan="#7aa89f"  # waveAqua2
+thm_black="#16161d" # sumiInk0
+thm_gray="#363646"  # sumiInk3
+thm_magenta="#938aa9" # springViolet1
+thm_pink="#d27e99"  # sakuraPink
+thm_red="#c34043"   # autumnRed
+thm_green="#98bb6c" # springGreen
+thm_yellow="#e6c384" # carpYellow
+thm_blue="#7e9cd8"  # crystalBlue
+thm_orange="#ffa066" # surimiOrange
+thm_black4="#54546D" # sumiInk5
