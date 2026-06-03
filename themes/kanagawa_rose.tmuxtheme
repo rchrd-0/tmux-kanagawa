@@ -1,0 +1,13 @@
+thm_bg="#191724" # base
+thm_fg="#e0def4" # text
+thm_cyan="#31748f" # pine
+thm_black="#1f1d2e" # surface
+thm_gray="#26233a" # overlay
+thm_magenta="#c4a7e7" # iris
+thm_pink="#ebbcba" # rose
+thm_red="#eb6f92" # love
+thm_green="#9ccfd8" # foam
+thm_yellow="#f6c177" # gold
+thm_blue="#31748f" # pine
+thm_orange="#ebbcba" # rose
+thm_black4="#26233a" # overlay
